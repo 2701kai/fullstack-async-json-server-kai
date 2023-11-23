@@ -1,5 +1,7 @@
 # Fullstack-async-json-server
 
+## Grazie, [Giaco!](https://github.com/giacomotolari)
+
 ## Tasks
 
 ### Task 1 - Json Server
@@ -21,10 +23,10 @@
 
 ### Task 4 - request status
 
-1. Show a message to the user when a request (post/get) is loading.
-2. Show a message to the user when a request (post/get) is done.
-3. Show a message to the user when a request (post/get) has an error.
+- [] Show a message to the user when a request (post/get) is loading.
+- [] Show a message to the user when a request (post/get) is done.
+- [] Show a message to the user when a request (post/get) has an error.
 
 ### Task 5 - clean code
 
-Refactor the code to make it clean, readable and reusable.
+- [] Refactor the code to make it clean, readable and reusable.
